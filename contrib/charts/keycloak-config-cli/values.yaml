@@ -71,3 +71,6 @@ extraVolumes: ""
 
 # Add additional volumes mounts, e. g. for custom secrets
 extraVolumeMounts: ""
+
+# Add init containers
+initContainers: ""
